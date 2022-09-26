@@ -1,4 +1,4 @@
-,label,Archive,Contact Hospital,Create Questionnaire,Decide Claim,High Insurance Check,High Medical History,Low Insurance Check,Low Medical History,Prepare Notification Content,Receive Questionnaire Response,Register,Send Notification by Phone,Send Notification by Post,Send Notification by e-mail,Send Questionnaire,Skip Questionnaire
+,label,Archive,Contact Hospital,Create Questionnaire,Decide claim,High Insurance Check,High Medical History,Low Insurance Check,Low Medical History,Prepare Notification Content,Receive Questionnaire Response,Register,Send Notification by Phone,Send Notification by Post,Send Notification by e-mail,Send Questionnaire,Skip Questionnaire
 0,False,1,0,1,1,0,0,1,1,1,1,1,1,0,1,1,0
 1,False,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,0
 2,True,1,0,1,1,0,0,1,1,1,0,1,0,0,1,1,1
